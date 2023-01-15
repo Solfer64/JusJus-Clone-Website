@@ -1,0 +1,206 @@
+@import url("https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@400;500;600;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@400;500;600;700&display=swap');
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.menu {
+  display: flex;
+  justify-content: flex-end;
+}
+ul li {
+  list-style-type: none;
+  margin-right: 30px;
+  margin-top: 15px;
+
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+body {
+  font-family: "Familjen Grotesk", sans-serif;
+}
+.container {
+  background-image: url("https://res.cloudinary.com/ds10p85zi/image/upload/v1669490455/000208120019_web_wdgopw.jpg");
+  height: 130vh;
+  background-position: center;
+  background-size: cover;
+  margin: 0 auto;
+}
+.relay {
+min-height: 100vh;
+  width: 100%;
+  margin-left: 100px;
+  background-image: url("https://res.cloudinary.com/ds10p85zi/image/upload/v1669565110/Webp.net-gifmaker_lgscf5.gif");
+background-position: left;
+  background-repeat: no-repeat;
+  background-size: 25%;
+
+  
+}
+.below {
+  height: 100vh;
+  background-color: #e2d6cb;
+  text-align: left;
+  padding: 20px 60px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 160px;
+}
+.text {
+  max-width: 30rem;
+  font-size: 19px;
+  line-height: 1.7;
+}
+.below h1 {
+  padding-bottom: 30px;
+  font-family: Familjen Grotesk', sans-serif;
+  font-weight: 400px;
+}
+p {
+  padding-bottom: 10px;
+}
+img {
+  margin-right: 20px;
+  height: 450px;
+  margin-top: 10px;
+}
+.next {
+  height:100vh;
+  width:100%;
+  background-color: #d3a484; 
+/* padding: 200px; */
+margin:0 auto;
+
+}
+.next2 {
+ 
+  /* width:100%; */
+ display:flex;
+ justify-content: space-between;
+
+}
+.prop img{
+  height: 90px;
+  margin-top: 50px;
+  margin-left: 300px;
+  padding:0;
+}
+.text2 p { 
+  padding-top: 200px;
+ padding-left: 200px;
+  /* max-width: 30rem; */
+  font-size: 19px;
+  line-height: 1.7;
+}
+.beside img{
+  height: 170px;
+  margin-top: 5px;
+  margin-left: 400px;
+  padding:0;
+  
+}
+.new p{
+  padding-top: 200px;
+  padding-left: 200px;
+  padding-right: 100px;
+  max-width: 70rem;
+  font-size: 19px;
+  line-height: 1.7;
+}
+
+.alone p {
+  font-size: 19px;
+  line-height: 1.7;
+  padding: 0 100px;
+}
+.alone img{
+  height: 60px;
+  padding-top: 20px;
+  margin-left: 500px;
+}
+.fourth{
+  background-image: url(https://res.cloudinary.com/ds10p85zi/image/upload/v1669565244/Screen_Shot_2020-11-25_at_4.32.48_PM_hkk7ka.png);
+  height: 130vh;
+  background-size:cover;
+  background-position:center;
+  margin:0 auto;
+}
+.fifth {
+  height: 100vh;
+  margin:0 auto;
+  background-color: #E0D692;
+  display:flex;
+  justify-content: space-between;
+  font-size: 19px;
+  line-height: 1.7;
+}
+.jump{
+  padding-left: 100px;
+  padding-top: 90px;
+}
+.jump h1 {
+  padding-bottom: 50px;
+}
+.fifth img {
+  height: 600px;
+padding: 60px;
+}
+.sixth {
+  height: 100vh;
+  width: 100%;
+  margin: 0 auto;
+  background-color: #76392B;
+  display:flex;
+  /* justify-content: space-between; */
+  font-size: 19px;
+  line-height: 1.7;
+  
+}
+.sixth img{
+  padding-top: 90px;
+  padding-left: 90px;
+  height: 600px
+  
+}
+.sixth h1{
+padding-top: 90px;
+padding-left: 350px;
+
+}
+.sixth p{
+  padding-left: 250px;
+  padding-top: 50px;
+}
+.seventh {
+  height:140vh;
+  width:100%;
+  background-image: url(https://res.cloudinary.com/ds10p85zi/image/upload/v1669565345/jusjusnight-1275_website_r22wxa.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.eight {
+  height:100vh;
+  width:100%;
+  background-color: #C9B498;
+  display: flex;
+  font-size: 19px;
+  line-height: 1.7;
+  font-weight:400px;
+
+}
+.eight img{
+  padding-left:90px;
+  padding-top: 80px;
+  height:550px
+}
+.eight h1{
+  padding-top:85px ;
+}
+.eight p{
+  padding-top: 30px;
+}
+  
